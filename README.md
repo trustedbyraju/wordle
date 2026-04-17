@@ -1,6 +1,6 @@
 # 🧩 Wordle Unlimited - The Ultimate Word Guessing Game
 
-[![GitHub Pages](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://yourusername.github.io/wordle/)
+[![GitHub Pages](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://trustedbyraju.github.io/wordle/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Welcome to **Wordle Unlimited**, a high-performance, SEO-optimized Wordle clone designed for endless gameplay. This project is built with a focus on speed, accessibility, and search engine visibility to help you rank #1 for word game queries.
